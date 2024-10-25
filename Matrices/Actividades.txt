@@ -1,0 +1,6 @@
+LU MA MI JU VI
+JOCK  8  0 12  0 12
+FUTB 10  5 15  5 10
+BASQ  8  8 10  8 10
+VOLY  5  7  5  7  7
+TENS  5  0  5  0  7
